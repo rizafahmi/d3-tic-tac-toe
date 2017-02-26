@@ -1,0 +1,9 @@
+{
+  "name": "d3-tic-tac-toe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^4.6.0"
+  }
+}
